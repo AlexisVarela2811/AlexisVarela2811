@@ -3,7 +3,6 @@
 # ¡Hola mundo! 👋 Soy Alexis (Alexsib)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Varela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexisfabianvarela)
-[![Discord](https://img.shields.io/badge/Discord-Alexsib-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/466013583264972813)
 ![Profile Views](https://komarev.com/ghpvc/?username=alexisvarela2811&style=for-the-badge)
 
 </div>
@@ -67,7 +66,6 @@ Soy un **Analista Programador** apasionado por la tecnología y el desarrollo de
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
 - LinkedIn: [Alexis Fabian Varela](https://linkedin.com/in/alexisfabianvarela)
-- Discord: [Alexsib](https://discord.gg/466013583264972813)
 
 ---
 <div align="center">
